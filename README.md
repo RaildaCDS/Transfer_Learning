@@ -11,6 +11,9 @@ Este projeto usa Transfer Learning com MobileNetV2 para classificar imagens entr
 ## 📊 Resultados
 Acurácia de validação superior a 98% após 5 épocas.
 
+[Abrir no Google Colab](https://colab.research.google.com/drive/1BFc2LMmFVU7pkTridtcKnUdv58XqtByh?usp=sharing)
+
+
 ![Transfer Learning](https://github.com/RaildaCDS/Transfer_Learning/raw/main/imgns/tranfer.png)
 
 ## 📊 Interpretação dos gráficos:
