@@ -6,7 +6,7 @@ Este projeto usa Transfer Learning com MobileNetV2 para classificar imagens entr
 - TensorFlow
 - Python
 - Matplotlib
-- Google Colab (opcional)
+- Google Colab
 
 ## 📊 Resultados
 Acurácia de validação superior a 98% após 5 épocas.
