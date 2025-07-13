@@ -11,6 +11,9 @@ Este projeto usa Transfer Learning com MobileNetV2 para classificar imagens entr
 ## 📊 Resultados
 Acurácia de validação superior a 98% após 5 épocas.
 
+
+(https://github.com/RaildaCDS/Transfer_Learning/blob/main/imgns/tranfer.png)
+
 ## 📁 Estrutura
 - `notebooks/`: Notebook principal com todo o código
 - `imgns/`: Resultados visuais (gráficos)
