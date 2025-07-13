@@ -13,8 +13,6 @@ Acurácia de validação superior a 98% após 5 épocas.
 
 ## 📁 Estrutura
 - `notebooks/`: Notebook principal com todo o código
-- `src/`: Scripts (se desejar modularizar)
-- `data/`: Pasta para dados locais (não commitada)
-- `imgs/`: Resultados visuais (gráficos, exemplos)
+- `imgns/`: Resultados visuais (gráficos)
 
 
